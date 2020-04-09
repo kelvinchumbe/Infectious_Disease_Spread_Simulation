@@ -1,0 +1,12 @@
+I attest that my peers and I upheld the Academic Honour System for this assessment. I did not cheat, neither did I see or hear of any of my peers cheating on this assessment.
+
+Full Name of Student: Kelvin Chumbe
+
+Email Address: kchumbe17@alustudent.com
+
+
+Notes:
+ - I attempted to create a graph of the population over time to better visualize the change.
+ - The program lags when attempting to run on a larger population, say 5000 people. I guess its because of the number of computations it has to make.
+I would however appreciate a better way to implement it and make it time efficient
+ - Interesting project. Took me almost a week to understand what I was supposed to do and how to go about it
